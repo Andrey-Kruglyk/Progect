@@ -1,0 +1,16 @@
+header {
+  width: 100%;
+  height: 100px;
+  background-color: #122a2f;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header nav li {
+  display: inline;
+  color: #008000;
+}
+header nav li a {
+  color: #f00;
+  font-size: 27px;
+}
